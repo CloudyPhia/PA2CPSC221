@@ -1,3 +1,4 @@
-# PA2CPSC221
+# PA2 ~ CPSC221
 
-Not sure if this is what I submitted, but it's what I have right now! It was part of my solution to the final product :)
+
+Part of my solution for the final product. I worked on most of the .cpp files (aside from testStackQueue.cpp) 
